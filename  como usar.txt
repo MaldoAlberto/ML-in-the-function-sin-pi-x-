@@ -1,0 +1,10 @@
+Se genera un dataset de 1000 muestras con el generador.py
+
+Se usa la libreria de Root de python llamada pyroot para las graficas link: https://github.com/root-project/root
+
+Se usa la libreria pandas para el dataset: pip install pandas
+
+Se usa numpy & array para modificar los datos :
+pip install numpy
+pip install Arrays
+
